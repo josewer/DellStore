@@ -1,0 +1,123 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Orders
+</name>
+</assembly>
+<members>
+<member name="F:Orders.Categories._ADO">
+ <summary>
+ Constructor que recibe la id de una categoria y consulta en la base de datos para
+ obtener el resto de campos sobre esta tabla.
+ </summary>
+</member>
+<member name="F:Orders.Customers._ADO">
+ <summary>
+ Constructor para insertar un cliente en la base de datos.
+ </summary>
+</member>
+<member name="M:Orders.Customers.Borrar">
+ <summary>
+ BORRAR EL CLIENTE ACTUAL DE LA BASE DE DATOS
+ </summary>
+</member>
+<member name="M:Orders.Customers.Actualizar">
+ <summary>
+ ACTUALIZA EL CLIENTE ACTUAL DE LA BASE DE DATOS
+ </summary>
+</member>
+<member name="M:Orders.Customers.#ctor(System.String)">
+ <summary>
+ Obtine los datos de un cliente pasandole su nick
+ </summary>
+</member>
+<member name="M:Orders.Customers.#ctor(System.Int32)">
+ <summary>
+ Obtine los datos de un cliente pasandole su id
+ </summary>
+</member>
+<member name="F:Orders.OrderLines._ADO">
+ <summary>
+ Constructor para insertar una linea de pedido en la base de datos.
+ </summary>
+</member>
+<member name="M:Orders.OrderLines.Borrar">
+ <summary>
+ BORRAR la linea de pedido ACTUAL DE LA BASE DE DATOS
+ </summary>
+</member>
+<member name="M:Orders.OrderLines.Actualizar">
+ <summary>
+ ACTUALIZA LA LINEA DE PEDIDO ACTUAL DE LA BASE DE DATOS
+ </summary>
+</member>
+<member name="F:Orders.Orders.ListaOrderLines">
+ <summary>
+ Me creo una lista de lineas de pedido para cada pedido
+ </summary>
+</member>
+<member name="M:Orders.Orders.AddOrderLine(System.Int32,System.Int16,System.Int32)">
+ <summary>
+ Funcion que añade una linea de pedido a la lista, pero antes 
+ compruba si ese producto esta ya insertado, en ese caso suma la cantidad.
+ </summary>
+</member>
+<member name="F:Orders.Orders._ADO">
+ <summary>
+ Constructor para insertar un pedido en la base de datos.
+ </summary>
+</member>
+<member name="M:Orders.Orders.#ctor(System.Int32)">
+ <summary>
+ Obtiene un pedido a partir de los datos de la base de datos.
+ </summary>
+</member>
+<member name="M:Orders.Orders.Borrar">
+ <summary>
+ BORRAR EL PEDIDO ACTUAL DE LA BASE DE DATOS
+ </summary>
+</member>
+<member name="M:Orders.Orders.Actualizar">
+ <summary>
+ ACTUALIZA EL PEDIDO ACTUAL DE LA BASE DE DATOS
+ </summary>
+</member>
+<member name="T:Orders.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Orders.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Orders.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:Orders.Products._ADO">
+ <summary>
+ Constructor para insertar un producto en la base de datos.
+ </summary>
+</member>
+<member name="M:Orders.Products.#ctor(System.Int32)">
+ <summary>
+ Constructor que obtiene un producto a traves de una id.
+ </summary>
+</member>
+<member name="M:Orders.Products.Borrar">
+ <summary>
+ BORRAR EL PRODUCTO ACTUAL DE LA BASE DE DATOS
+ </summary>
+</member>
+<member name="M:Orders.Products.Actualizar">
+ <summary>
+ ACTUALIZA EL CLIENTE ACTUAL DE LA BASE DE DATOS
+ </summary>
+</member>
+</members>
+</doc>

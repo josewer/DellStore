@@ -1,0 +1,76 @@
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Application.g.vb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion_MarkupCompile.cache
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion_MarkupCompile.lref
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.g.resources
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.Cache
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\MainWindow.g.vb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\MainWindow.baml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Clientes.g.vb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Clientes.baml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Application.baml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Resources\clientes.png
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Resources\pedido.png
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Resources\productos.png
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion_Content.g.vb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaControlador.dll
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaControlador.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaControlador.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Resources\bien.png
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Resources\mal.png
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Orders.dll
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Npgsql.dll
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Orders.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Orders.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Npgsql.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Pedidos.g.vb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Pedidos.baml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaPresentacion.exe.config
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.exe
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.pdb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Resources\bien.png
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Resources\clientes.png
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Resources\mal.png
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Resources\pedido.png
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Resources\productos.png
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaPresentacion.exe
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaPresentacion.pdb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaPresentacion.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaControlador.dll
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Orders.dll
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Npgsql.dll
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaControlador.pdb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\CapaControlador.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Orders.pdb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Orders.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\bin\Debug\Npgsql.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.vbprojResolveAssemblyReference.cache
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Clientes.g.vb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\MainWindow.g.vb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Pedidos.g.vb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Application.g.vb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion_Content.g.vb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion_MarkupCompile.cache
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion_MarkupCompile.lref
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Application.baml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Clientes.baml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\MainWindow.baml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Pedidos.baml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.g.resources
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.Resources.resources
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\CapaPresentacion.vbproj.GenerateResource.Cache
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Productos.g.vb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\Productos.baml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\ProductosAltaModificar.g.vb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\ProductosAltaModificar.baml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\ProductosModificar.g.vb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaPresentacion\obj\Debug\ProductosModificar.baml

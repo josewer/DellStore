@@ -1,0 +1,17 @@
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\bin\Debug\Interfaz.exe.config
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\bin\Debug\Interfaz.exe
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\bin\Debug\Interfaz.pdb
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.csprojResolveAssemblyReference.cache
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\MainWindow.g.cs
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\App.g.cs
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz_MarkupCompile.cache
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz_MarkupCompile.lref
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\MainWindow.baml
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.g.resources
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.Cache
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.exe
+c:\users\josewer\documents\visual studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Cliente\Clientes.g.cs
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Cliente\Clientes.baml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\App.baml

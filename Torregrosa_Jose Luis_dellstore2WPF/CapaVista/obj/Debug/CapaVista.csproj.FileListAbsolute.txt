@@ -1,0 +1,23 @@
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\CapaVista.csprojResolveAssemblyReference.cache
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Cliente\Clientes.g.cs
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Principal\MainWindow.g.cs
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Principal\App.g.cs
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz_MarkupCompile.cache
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz_MarkupCompile.lref
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Principal\App.baml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Cliente\Clientes.baml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Principal\MainWindow.baml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.g.resources
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\CapaVista.csproj.GenerateResource.Cache
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Interfaz\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaVista\bin\Debug\Interfaz.exe.config
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaVista\obj\Debug\Interfaz.exe
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaVista\obj\Debug\Interfaz.pdb

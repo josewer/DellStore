@@ -1,0 +1,120 @@
+﻿<Window x:Class="Pedidos"
+        Closing="Window_Closing"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CapaPresentacion"
+        mc:Ignorable="d"
+        Title="Pedidos" Width="1280" Height="720" ResizeMode="NoResize"
+        Background="{DynamicResource ColorFondo}" >
+
+
+    <Grid Height="419" VerticalAlignment="Top">
+
+        <!-- Parte Datos del cliente -->
+        <Grid Margin="0,11,860,159">
+            <Border  CornerRadius="30" Width="696" HorizontalAlignment="Left" Background="#9BFFFFFF" BorderBrush="#FFCDE4E5" Margin="10,0,-292,0" >
+                <StackPanel>
+                    <Grid >
+                        <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="30,30,0,0" Height="40" Margin=" 15,15,15,5" VerticalAlignment="Top" >
+                            <Border.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFD6D6EB" Offset="0" />
+                                    <GradientStop Color="#FFEF720D" Offset="1" />
+                                </LinearGradientBrush>
+                            </Border.Background>
+                            <Label x:Name="label15" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" Content="Datos del cliente" FontFamily="Calibri" FontSize="21.333" FontWeight="Bold"/>
+                        </Border>
+
+                        <Label x:Name="label56" Content="Nombre:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif" Margin="13,78,0,-52"/>
+                        <Label x:Name="label1" Content="Dirección:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif" Margin="15,117,0,-91"/>
+                        <Label x:Name="label2" Content="País:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif" Margin="18,195,0,-169"/>
+                        <Label x:Name="label3" Content="Localidad:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif" Margin="18,156,0,-130"/>
+                        <Label x:Name="lbNombre" Content="Nombre de ejemplo" HorizontalAlignment="Left" Margin="152,78,0,-52" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif"/>
+                        <Label x:Name="lbDir" Content="Dirección de ejemplo" HorizontalAlignment="Left" Margin="152,117,0,-91" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif"/>
+                        <Label x:Name="lbLocalidad" Content="Localidad de ejemplo" HorizontalAlignment="Left" Margin="152,156,0,-130" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif"/>
+                        <Label x:Name="lbPais" Content="País de ejemplo" HorizontalAlignment="Left" Margin="152,195,0,-169" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif"/>
+
+                    </Grid>
+                </StackPanel>
+            </Border>
+        </Grid>
+
+
+        <Grid Margin="716,11,144,159">
+            <Border  CornerRadius="30" Width="536" HorizontalAlignment="Left" Background="#9BFFFFFF" BorderBrush="#FFCDE4E5" Margin="10,0,-132,0" >
+                <StackPanel>
+                    <Grid >
+                        <Border BorderBrush="Gray" BorderThickness="1" CornerRadius="30,30,0,0" Height="40" Margin=" 15,15,15,5" VerticalAlignment="Top" >
+                            <Border.Background>
+                                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                    <GradientStop Color="#FFD6D6EB" Offset="0" />
+                                    <GradientStop Color="#FFEF720D" Offset="1" />
+                                </LinearGradientBrush>
+                            </Border.Background>
+                            <Label x:Name="label16" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="White" Content="Datos del pedido" FontFamily="Calibri" FontSize="21.333" FontWeight="Bold"/>
+                        </Border>
+
+                        <Label x:Name="label8" Content="Factura Número:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif" Margin="15,82,0,-56"/>
+                        <Label x:Name="lbNumFac" Content="0" HorizontalAlignment="Left" Margin="211,82,0,-56" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif"/>
+                        <Label x:Name="label10" Content="Fecha:" HorizontalAlignment="Left" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif" Margin="15,121,0,-95"/>
+                        <Label x:Name="lbFecha" Content="31/01/2016" HorizontalAlignment="Left" Margin="211,121,0,-95" VerticalAlignment="Top" FontSize="21.333" FontFamily="Microsoft Sans Serif"/>
+
+                    </Grid>
+
+                </StackPanel>
+            </Border>
+        </Grid>
+
+        <DataGrid x:Name="dataGridLinesOrders" CanUserReorderColumns="True" CanUserResizeColumns="True" 
+         ItemsSource="{Binding}" SelectionChanged="dataGridLinesOrders_SelectionChanged" CanUserResizeRows="False"  Margin="0,270,0,-121" Background="#9BFFFFFF" BorderBrush="#FFCDE4E5" ColumnWidth="*" AutoGenerateColumns="False" >
+            <DataGrid.Columns>
+                <DataGridTextColumn  x:Name="columnFecha" Binding="{Binding Path=OrderDate}"  Header="Fecha"  IsReadOnly="True">
+                    <!--TODO-->
+                </DataGridTextColumn>
+                <DataGridTextColumn x:Name="columnCantidad" Binding="{Binding Path=Quantity}" Header="Cantidad" IsReadOnly="True">
+                    <!--TODO-->
+                </DataGridTextColumn>
+                <DataGridTextColumn x:Name="columnDescripcion"  Binding="{Binding Path=Producto.Title}"  Header="Descripción" IsReadOnly="True">
+                    <!--TODO-->
+                </DataGridTextColumn>
+                <DataGridTextColumn x:Name="columnI_Bruto" Binding="{Binding Path=Producto.Price}"  Header="I. Bruto" IsReadOnly="True">
+                    <!--TODO-->
+                </DataGridTextColumn>
+                <DataGridTextColumn  x:Name="columnImporteBruto" Binding="{Binding Path=PrecioTotal}" Header="Importe Bruto" IsReadOnly="True">
+                    <!--TODO-->
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+        <DataGrid x:Name="dgTotales"  AutoGenerateColumns="False" CanUserReorderColumns="True" CanUserResizeColumns="True" 
+         ItemsSource="{Binding}" CanUserResizeRows="False" CanUserSortColumns="False" Margin="0,540,0,-175" Background="#9BFFFFFF" BorderBrush="#FFCDE4E5" ColumnWidth="*">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Base imponible"  Binding="{Binding Path=NetAmount}" IsReadOnly="True">
+                    <!--TODO-->
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Impuestos"  Binding="{Binding Path=Impuesto}"  IsReadOnly="True">
+                    <!--TODO-->
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Total impuestos" Binding="{Binding Path=Tax}" IsReadOnly="True">
+                    <!--TODO-->
+                </DataGridTextColumn>
+                <DataGridTextColumn Header="Total factura" Binding="{Binding Path=TotalAmount}" IsReadOnly="True">
+                    <!--TODO-->
+                </DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+
+
+
+        <Button x:Name="button" Click="AnyadirProducto" Content="Añadir producto" HorizontalAlignment="Left" Height="41" Margin="88,616,15,-238" VerticalAlignment="Top" Width="166" FontSize="16" FontFamily="Microsoft Sans Serif"/>
+        <Button x:Name="btCambiar" Click="btCambiar_Click" Content="Cambiar" HorizontalAlignment="Left" Height="41" Margin="672,616,0,-238" VerticalAlignment="Top" Width="86" FontSize="16" FontFamily="Arial"/>
+        <Button x:Name="btBorrarLinea" Click="btBorrarLinea_Click" Content="Borrar línea" HorizontalAlignment="Left" Height="41" Margin="832,616,0,-238" VerticalAlignment="Top" Width="109" RenderTransformOrigin="0.5,0.5" FontSize="16" FontFamily="Microsoft Sans Serif"/>
+        <Button x:Name="btBorrarPedido" Click="btBorrarPedido_Click" Content="Borrar pedido" HorizontalAlignment="Left" Height="41" Margin="972,616,0,-238" VerticalAlignment="Top" Width="120" FontSize="16"/>
+        <Button x:Name="button4" Click="Cerrar_Ventana" Content="Salir" HorizontalAlignment="Left" Height="43" Margin="1127,618,0,-242" VerticalAlignment="Top" FontSize="16" Width="86"/>
+        <TextBox x:Name="tbCantidad" TextChanged="tbCantidad_TextChanged"  Style="{StaticResource Mis_TextBox}" Height="39" HorizontalAlignment="Left"  Margin="472,618,15,-238" TextWrapping="Wrap"  VerticalAlignment="Top" Width="132" FontSize="21.333"/>
+        <Label x:Name="label4" Content="Cambiar cantidad:" HorizontalAlignment="Left" Height="41" Margin="287,620,0,-242" VerticalAlignment="Top" FontSize="21" FontFamily="Microsoft Sans Serif"/>
+        <Image x:Name="imgCantidad" HorizontalAlignment="Left" Height="33" Margin="621,620,0,-234" VerticalAlignment="Top" Width="33"/>
+    </Grid>
+</Window>

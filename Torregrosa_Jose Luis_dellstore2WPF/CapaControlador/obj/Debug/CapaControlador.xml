@@ -1,0 +1,32 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CapaControlador
+</name>
+</assembly>
+<members>
+<member name="M:CapaControlador.AccionesBDCliente.ObtenerCliente(System.String)">
+ <summary>
+ FUNCION QUE DEVUELVE UN CLIENTE EN FORMA DE DICCIONARIO PARA QUE LA INTERFAZ
+ TENGA INDEPENDENCIA SOBRE LA CAPA DE DATOS.
+ </summary>
+</member>
+<member name="T:CapaControlador.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:CapaControlador.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:CapaControlador.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

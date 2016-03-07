@@ -1,0 +1,28 @@
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\CapaControlador.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.vbprojResolveAssemblyReference.cache
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.Resources.resources
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.vbproj.GenerateResource.Cache
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\Orders.dll
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\Npgsql.dll
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\Orders.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\Orders.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\Npgsql.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\CapaControlador.dll
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\CapaControlador.pdb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\CapaControlador.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\Orders.dll
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\Npgsql.dll
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\Orders.pdb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\Orders.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\bin\Debug\Npgsql.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.vbprojResolveAssemblyReference.cache
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.Resources.resources
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.vbproj.GenerateResource.Cache
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.dll
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaControlador\obj\Debug\CapaControlador.pdb

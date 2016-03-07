@@ -1,0 +1,22 @@
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\bin\Debug\Orders.dll
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\bin\Debug\Orders.pdb
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\bin\Debug\Orders.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\bin\Debug\Npgsql.dll
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\bin\Debug\Npgsql.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\CapaModelo.vbprojResolveAssemblyReference.cache
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\Orders.Resources.resources
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\CapaModelo.vbproj.GenerateResource.Cache
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\Orders.dll
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\Orders.xml
+C:\Users\Josewer\Documents\Visual Studio 2015\Projects\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\Orders.pdb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\bin\Debug\Orders.dll
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\bin\Debug\Orders.pdb
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\bin\Debug\Orders.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\bin\Debug\Npgsql.dll
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\bin\Debug\Npgsql.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\CapaModelo.vbprojResolveAssemblyReference.cache
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\Orders.Resources.resources
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\CapaModelo.vbproj.GenerateResource.Cache
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\Orders.dll
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\Orders.xml
+C:\Users\Josewer\Desktop\Torregrosa_Jose Luis_dellstore2WPF\CapaModelo\obj\Debug\Orders.pdb
